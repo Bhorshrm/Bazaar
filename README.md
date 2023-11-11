@@ -1,6 +1,6 @@
 # Ecommerce Application with Java Spring Boot
 
-![Bazaar App Banner](https://github.com/Deadlegend1321/Bazaar/assets/51445048/767799a3-45cb-4cec-95d7-dfa9c5c413b9) <!-- Replace with an image that represents your app -->
+![Bazaar App Banner](https://github.com/Bhorshrm/Bazaar/assets/51445048/767799a3-45cb-4cec-95d7-dfa9c5c413b9) <!-- Replace with an image that represents your app -->
 
 ## Overview
 
@@ -18,7 +18,7 @@ In Ecommerce Application use USA as your address if going for a Paypal Checkout.
 
 - **Live Demo Backend Control Panel:** [Link to the live demo](https://bazaar-admin-4104de4d8d2d.herokuapp.com/)
 - **Live Demo Ecommerce Application:** [Link to the live demo](https://bazaar-a7ef40befd94.herokuapp.com/)
-- **Documentation:** [Link to the detailed documentation](https://github.com/Deadlegend1321/Bazaar/wiki)
+- **Documentation:** [Link to the detailed documentation](https://github.com/Bhorshrm/Bazaar/wiki)
 
 ## Features
 
@@ -49,4 +49,4 @@ Follow these steps to set up and run the project locally:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/Deadlegend1321/Bazaar.git
+   git clone https://github.com/Bhorshrm/Bazaar.git
